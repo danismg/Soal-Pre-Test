@@ -19,7 +19,8 @@ m
 Keterangan output:
 
 1. bertipe data `int`.
-   Perhatikan format struktur input :
+
+Perhatikan format struktur output :
 
 ```
 Keliling Bangun
@@ -27,6 +28,8 @@ Keliling Bangun
 ```
 
 <hr>
+
+#### Example :
 
 Berikut adalah contoh masukan yang diberikan.
 
