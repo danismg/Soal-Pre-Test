@@ -3,10 +3,10 @@
 Seorang pria ingin memperkenalkan calon istrinya kepada keluarganya. Namun, dalam keluarga mereka, terdapat aturan tentang anggota baru dalam keluarga mereka.
 
 1. Jika marga ayahnya sama dengan marga ayah pria tersebut maka mereka tidak dapat menikah.
-   ![Img_PBO_1.png.png](Img_PBO_1.png.png)
+   ![Img_PBO_1.png.png](img/Img_PBO_1.png.png)
 2. Jika marga ibunya sama dengan marga ibu pria tersebut maka mereka tidak dapat menikah.
    Berdasarkan marga keluarga mereka, tolong periksa apakah mereka dapat menikah atau tidak.
-   ![Img_PBO_2.png.png](Img_PBO_2.png.png)
+   ![Img_PBO_2.png.png](img/Img_PBO_2.png.png)
    <br>
    Keterangan input:
 

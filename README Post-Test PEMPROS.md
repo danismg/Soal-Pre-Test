@@ -1,7 +1,7 @@
 ## Soal-Post-Test PEMPROS
 
 Suatu hari, seorang anak muda yang bernama Butet diminta untuk membuat miniatur menara kecil dari lego dengan menggunakan lego yang seadanya. Untuk menyelesaikan tugas tersebut, Ucok perlu mengetahui volume menara tersebut. Berikut adalah bentuk menaranya:
-![Img_post-test_PEMPROS.png](Img_post-test_PEMPROS.png)
+![Img_post-test_PEMPROS.png](img/Img_post-test_PEMPROS.png)
 Bantulah Ucok dengan membuat kalkulator sederhana untuk menghitung volume bangun ruang tersebut!
 Keterangan input:
 
