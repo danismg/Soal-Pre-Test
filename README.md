@@ -3,12 +3,15 @@
 Suatu hari, seorang anak muda yang bernama Ucok diminta untuk membuat miniatur rumah kecil dengan menggunakan bahan yang seadanya. Untuk menyelesaikan tugas tersebut, Ucok perlu mengetahui keliling rumah tersebut. Berikut adalah bentuk rumahnya:
 ![Img_pre-test_PEMPROS.png](img/Img_pre-test_PEMPROS.png)
 Bantulah Ucok dengan membuat kalkulator sederhana untuk menghitung keliling bangun tersebut!
+
 Keterangan input:
 
 1. Input pertama mendeskripsikan panjang sisi `n` dengan satuan meter.
 2. Input kedua mendeskripsikan panjang sisi `m` dengan satuan meter.
 3. Kedua Input bertipe data `int`.
-   Perhatikan format struktur input :
+
+
+Perhatikan format struktur input :
 
 ```
 n
