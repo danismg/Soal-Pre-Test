@@ -36,10 +36,10 @@ Keputusan menikah atau tidak
 Berikut adalah contoh masukan yang diberikan.
 
 ```
-pardede
 sitorus
+pardede
 situmorang
-Tampubolon
+tampubolon
 
 ```
 
@@ -55,10 +55,10 @@ yes
 Berikut adalah contoh masukan yang diberikan.
 
 ```
+sitorus
 pardede
-sitorus
 situmorang
-sitorus
+pardede
 
 ```
 
