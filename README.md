@@ -1,17 +1,16 @@
 ## Soal-Pre-Test PEMPROS
 
 Suatu hari, seorang anak muda yang bernama Ucok diminta untuk membuat miniatur rumah kecil dengan menggunakan bahan yang seadanya. Untuk menyelesaikan tugas tersebut, Ucok perlu mengetahui keliling rumah tersebut. Berikut adalah bentuk rumahnya:
-![Img_pre-test_PEMPROS.png](img/Img_pre-test_PEMPROS.png)
+<img src="https://github.com/danismg/Soal-Pre-Test/blob/main/img/Img_pre-test_PEMPROS.png" align="center" height="400" width="750">
+
 Bantulah Ucok dengan membuat kalkulator sederhana untuk menghitung keliling bangun tersebut!
 
-Keterangan input:
+### Keterangan:
+<br>
+Pada input terdapat dua segment yaitu panjang `n` yang menggambarkan sisi horizontal dari persegi panjang, sedangkan untuk input panjang `m` yang menggambarkan sisi vertikal dari persegi panjang dan panjang setiap sisi segitiga. Kedua input tersebut bertipe data `int`. Program tersebut akan menghitung keliling bangun dari gambar diatas dan menampilkan hasil dari kalkulasi dalam bentuk 1 baris luaran(output).
+<br>
 
-1. Input pertama mendeskripsikan panjang sisi `n` dengan satuan meter.
-2. Input kedua mendeskripsikan panjang sisi `m` dengan satuan meter.
-3. Kedua Input bertipe data `int`.
-
-
-Perhatikan format struktur input :
+**Perhatikan format struktur input :**
 
 ```
 n
@@ -19,11 +18,9 @@ m
 
 ```
 
-Keterangan output:
+<br>
 
-1. bertipe data `int`.
-
-Perhatikan format struktur output :
+**Perhatikan format struktur output :**
 
 ```
 Keliling Bangun
@@ -32,7 +29,7 @@ Keliling Bangun
 
 <hr>
 
-#### Example :
+#### Example 1:
 
 Berikut adalah contoh masukan yang diberikan.
 
@@ -45,6 +42,23 @@ Berikut adalah contoh masukan yang diberikan.
 Berikut adalah keluaran yang diharapkan.
 
 ```
-180
+170
+
+```
+
+#### Example :
+
+Berikut adalah contoh masukan yang diberikan.
+
+```
+50
+30
+
+```
+
+Berikut adalah keluaran yang diharapkan.
+
+```
+190
 
 ```
