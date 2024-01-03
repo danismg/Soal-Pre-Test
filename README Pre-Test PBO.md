@@ -5,7 +5,7 @@ Seorang pria ingin memperkenalkan kekasihnya kepada keluarganya. Namun, keluarga
 Berdasarkan marga keluarga mereka, tolong periksa apakah mereka dapat menikah atau tidak.
 <br>
 
-Pada input terdapat 2 segment yaitu input pertama mendeskripsikan `marga ayah pria` dan input kedua mendeskripsikan `marga ayah kekasih`. Kedua input tersebut menggunakan kecil/_lowercase_ dengan tipe data `string`. Program akan menentukan apakah pria dan kekasihnya dapat menikah atau tidak dalam bentuk 1 baris luaran(output).
+Pada input terdapat 2 segment yaitu input pertama mendeskripsikan `marga ayah pria` dan input kedua mendeskripsikan `marga ayah kekasih`. Kedua input tersebut menggunakan kecil/_lowercase_ dengan tipe data `string`. Program akan menentukan apakah pria dan kekasihnya dapat menikah atau tidak dalam bentuk 1 baris luaran(output) **Yes** or **No**.
 <br>
 
 **Perhatikan format struktur input :**
