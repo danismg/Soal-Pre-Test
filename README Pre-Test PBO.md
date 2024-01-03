@@ -32,8 +32,8 @@ Keputusan menikah atau tidak
 Berikut adalah contoh masukan yang diberikan.
 
 ```
-pardede
 sitorus
+pardede
 
 ```
 
@@ -49,9 +49,8 @@ yes
 Berikut adalah contoh masukan yang diberikan.
 
 ```
-pardede
-pardede
-
+sitorus
+sitorus
 
 ```
 
