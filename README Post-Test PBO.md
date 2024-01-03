@@ -8,13 +8,12 @@ Seorang pria ingin memperkenalkan calon istrinya kepada keluarganya. Namun, dala
    Berdasarkan marga keluarga mereka, tolong periksa apakah mereka dapat menikah atau tidak.
    ![Img_PBO_2.png.png](img/Img_PBO_2.png.png)
    <br>
-   Keterangan input:
+Berdasarkan marga keluarga mereka, tolong periksa apakah mereka dapat menikah atau tidak.
+<br>
+Pada input terdapat empat segment yaitu input pertama mendeskripsikan `marga ayah pria`, input kedua mendeskripsikan `marga ayah kekasih`, input ketiga mendeskripsikan `marga ibu pria` dan input keempat mendeskripsikan `marga ibu kekasih`. Kedua input tersebut menggunakan kecil/_lowercase_ dengan tipe data `string`. Program akan menentukan apakah pria dan kekasihnya dapat menikah atau tidak dalam bentuk 1 baris luaran(output) **Yes** or **No**.
+<br>
 
-3. Input pertama mendeskripsikan `marga ayah pria`.
-4. Input kedua mendeskripsikan `marga ayah kekasih`.
-5. Kedua Input bertipe data `string`.
-6. Kedua Input menggunakan hurup kecil/_lowercase_.
-   Perhatikan format struktur input :
+**Perhatikan format struktur input :**
 
 ```
 marga ayah pria
@@ -24,12 +23,7 @@ marga ibu kekasih
 
 ```
 
-Keterangan output:
-
-1. bertipe data `String`.
-1. menggunakan hurup kecil/_lowercase_.
-   Perhatikan format struktur output :
-
+**Perhatikan format struktur output :**
 ```
 Keputusan menikah atau tidak
 
