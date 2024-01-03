@@ -3,7 +3,7 @@
 Suatu hari, seorang anak muda yang bernama Ucok diminta untuk membuat miniatur rumah kecil dengan menggunakan bahan yang seadanya. Untuk menyelesaikan tugas tersebut, Ucok perlu mengetahui keliling rumah tersebut. Berikut adalah bentuk rumahnya:
 <img src="https://github.com/danismg/Soal-Pre-Test/blob/main/img/Img_pre-test_PEMPROS.png" align="center" height="400" width="750">
 
-Bantulah Ucok dengan membuat kalkulator sederhana untuk menghitung keliling bangun tersebut!(Gunakan π ≈ 3.14 )
+Bantulah Ucok dengan membuat kalkulator sederhana untuk menghitung keliling bangun tersebut!
 
 ### Keterangan:
 <br>
