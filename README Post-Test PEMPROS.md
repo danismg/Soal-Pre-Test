@@ -1,15 +1,16 @@
 ## Soal-Post-Test PEMPROS
 
-Suatu hari, seorang anak muda yang bernama Butet diminta untuk membuat miniatur menara kecil dari lego dengan menggunakan lego yang seadanya. Untuk menyelesaikan tugas tersebut, Ucok perlu mengetahui volume menara tersebut. Berikut adalah bentuk menaranya:
-![Img_post-test_PEMPROS.png](img/Img_post-test_PEMPROS.png)
-Bantulah Ucok dengan membuat kalkulator sederhana untuk menghitung volume bangun ruang tersebut!
-Keterangan input:
+Suatu hari, seorang anak muda yang bernama Butet diminta untuk membuat miniatur menara kecil dari lego dengan menggunakan lego yang seadanya. Untuk menyelesaikan tugas tersebut, Ucok perlu mengetahui volume menara tersebut. Berikut adalah bentuk menaranya: <br>
+<img src="https://github.com/danismg/Soal-Pre-Test/blob/main/img/Img_post-test_PEMPROS.png" align="center" height="400" >
+<br>
+Bantulah Ucok dengan membuat kalkulator sederhana untuk menghitung volume bangun ruang tersebut!(Gunakan π ≈ 3.14 )
 
-1. Input pertama mendeskripsikan panjang sisi `a` dengan satuan meter.
-2. Input kedua mendeskripsikan panjang sisi `h` dengan satuan meter.
-3. Input kedua mendeskripsikan panjang sisi `s` dengan satuan meter.
-4. Kedua Input bertipe data `int`.
-   Perhatikan format struktur input :
+### Keterangan:
+<br>
+Pada input terdapat tiga segment yaitu input `a` yang mendeskripsikan diamater alas tabung, input `h` yang mendeskripsikan tinggi tabung dan input `s` yang mendeskripsikan selimut kerucut. Ketiga input tersebut bertipe data `int`dengan satuan meter. Program tersebut akan menghitung volume bangun ruang dari gambar diatas dan menampilkan hasil dari kalkulasi dalam bentuk 1 baris luaran(output) dengan satuan meter^2.
+<br>
+
+**Perhatikan format struktur input :**
 
 ```
 a
@@ -18,17 +19,15 @@ s
 
 ```
 
-Keterangan output:
-
-1. bertipe data `int`.
-   Perhatikan format struktur input :
-
+**Perhatikan format struktur output :**
 ```
 Volume bangun ruang
 
 ```
 
 <hr>
+
+#### Example 1:
 
 Berikut adalah contoh masukan yang diberikan.
 
@@ -42,6 +41,25 @@ Berikut adalah contoh masukan yang diberikan.
 Berikut adalah keluaran yang diharapkan.
 
 ```
-240
+180
+
+```
+
+
+#### Example 2:
+
+Berikut adalah contoh masukan yang diberikan.
+
+```
+80
+60
+50
+
+```
+
+Berikut adalah keluaran yang diharapkan.
+
+```
+351
 
 ```
