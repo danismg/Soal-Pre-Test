@@ -1,16 +1,14 @@
 ## Soal-Pre-Test PBO
 
 Seorang pria ingin memperkenalkan kekasihnya kepada keluarganya. Namun, keluarga mereka memiliki aturan tentang penerimaan anggota baru dalam keluarga mereka. Dimana teraturan tersebut, jika marga ayahnya sama dengan marga ayah pria maka mereka tidak dapat menikah. Adapun yang termasuk dari marga ayah si pria adalah sebagai berikut :
-![Img_PBO_1.png.png](img/Img_PBO_1.png.png)
+<img src="https://github.com/danismg/Soal-Pre-Test/blob/main/img/Img_PBO_2.png.png" align="center" height="400" width="750">
 Berdasarkan marga keluarga mereka, tolong periksa apakah mereka dapat menikah atau tidak.
 <br>
-Keterangan input:
 
-1. Input pertama mendeskripsikan `marga ayah pria`.
-2. Input kedua mendeskripsikan `marga ayah kekasih`.
-3. Kedua Input bertipe data `string`.
-4. Kedua Input menggunakan hurup kecil/_lowercase_.
-   Perhatikan format struktur input :
+Pada input terdapat 2 segment yaitu input pertama mendeskripsikan `marga ayah pria` dan input kedua mendeskripsikan `marga ayah kekasih`. Kedua input tersebut menggunakan kecil/_lowercase_ dengan tipe data `string`. Program akan menentukan apakah pria dan kekasihnya dapat menikah atau tidak dalam bentuk 1 baris luaran(output).
+<br>
+
+**Perhatikan format struktur input :**
 
 ```
 marga ayah pria
@@ -18,11 +16,7 @@ marga ayah kekasih
 
 ```
 
-Keterangan output:
-
-1. bertipe data `String`.
-1. menggunakan hurup kecil/_lowercase_.
-   Perhatikan format struktur output :
+**Perhatikan format struktur Output :**
 
 ```
 Keputusan menikah atau tidak
